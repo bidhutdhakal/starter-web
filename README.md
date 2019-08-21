@@ -6,6 +6,9 @@ this is me
 
 Sample website with plenty of files for demos andads
 
+##Git and Git hub Training
+This is a git Rebase test
+
 ## GIT COMPARISION
 adding git comparision
 
